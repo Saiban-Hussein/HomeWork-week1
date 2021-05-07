@@ -5,7 +5,7 @@ Refactor HTML and CSS codebase by meeting standards in web accessibility for eas
 
 ## Submission
 
-Deployed URL: 
+Deployed URL: https://saiban-hussein.github.io/HomeWork-week1/
 GitHub Repo URL: https://github.com/Saiban-Hussein/HomeWork-week1
 
 
